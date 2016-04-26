@@ -36,9 +36,9 @@
 				<div class="col-md-12">
 					<table class="table">
 						<thead>
-							<tr>Name</tr>
-							<tr>Number</tr>
-							<tr>Mail</tr>
+							<td>Name</td>
+							<td>Phone</td>
+							<td>E-Mail</td>
 						</thead>
 						<tbody>
 							<tr>
