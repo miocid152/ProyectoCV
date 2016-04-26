@@ -34,7 +34,7 @@
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat minima, accusantium nostrum beatae iste eum ut reiciendis enim doloremque eligendi distinctio quos id voluptatum, quae dolor nam iusto reprehenderit aliquam.</p>
 				</div>
 				<div class="col-md-12">
-					<table class="table">
+					<table class="table table-responsive table-striped">
 						<thead>
 							<td>Name</td>
 							<td>Phone</td>
