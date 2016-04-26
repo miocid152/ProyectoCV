@@ -33,6 +33,32 @@
 					<h3>Lorem.</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat minima, accusantium nostrum beatae iste eum ut reiciendis enim doloremque eligendi distinctio quos id voluptatum, quae dolor nam iusto reprehenderit aliquam.</p>
 				</div>
+				<div class="col-md-12">
+					<table class="table">
+						<thead>
+							<tr>Name</tr>
+							<tr>Number</tr>
+							<tr>Mail</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>User</td>
+								<td>555-555-555</td>
+								<td>mail@mail</td>
+							</tr>
+							<tr>
+								<td>User</td>
+								<td>555-555-555</td>
+								<td>mail@mail</td>
+							</tr>
+							<tr>
+								<td>User</td>
+								<td>555-555-555</td>
+								<td>mail@mail</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
 			</div>
 		</div>
 	</div>
